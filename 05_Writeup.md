@@ -1,5 +1,3 @@
-# Trader Performance vs Market Sentiment 
-
 ## Methodology
 
 Two datasets were used: Hyperliquid trader history (211,224 trade level rows) and the
